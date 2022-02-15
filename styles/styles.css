@@ -8,5 +8,13 @@ p, a {
     font-family: 'Yantramanav', sans-serif;
 }
 
+
+p {
+    margin-bottom: 30px;
+    font-size: 14px;
+    color: #606060;
+}
+
+
 /* Layout */
 
